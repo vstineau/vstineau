@@ -2,8 +2,8 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vstineau&show_icons=true&locale=en&layout=compact" alt="vstineau" /></div>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=vstineau&show_icons=true&locale=en" alt="vstineau" /></div>
 
+<h2 align="center">### :hammer_and_wrench: Languages and Tools :</h2>
 
-### :hammer_and_wrench: Languages and Tools :
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
